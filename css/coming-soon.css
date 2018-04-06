@@ -126,7 +126,7 @@ body {
 .social-icons ul > li > a {
   display: block;
   color: white;
-  background-color: rgba(0, 46, 102, 0.8);
+  background-color: #4ecdc4;
   border-radius: 100%;
   font-size: 2rem;
   line-height: 4rem;
@@ -168,8 +168,8 @@ body {
 }
 
 .btn-secondary {
-  background-color: #cd9557;
-  border-color: #cd9557;
+  background-color: #4ecdc4;
+  border-color: #4ecdc4;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
